@@ -17,28 +17,7 @@
 - [Alexander Amini](https://www.youtube.com/user/Zan560)
 - [The Coding Train](https://www.youtube.com/user/shiffman)
 - [Christopher Olah](https://colah.github.io/)
-## Communities to Follow
-
-- [AI Coimbatore](https://www.meetup.com/AICoimbatore/) *Join here*🔗⬇️
-  - [Telegram : For Daily Updates](https://t.me/joinchat/MmtTDRUcEqIuAPpr6Ph0Jw)
-  - [Facebook : Coimbatore School of AI](https://www.facebook.com/groups/440187506472896/)
-- [TensorFlow User Group Coimbatore](https://www.tensorflow.org/community/groups)
-  - [Meetup : TFUGCbe](https://www.meetup.com/TFUGCbe/)
-  - [Facebook : TFUGCbe](https://www.facebook.com/groups/2425901487658992/)
-
-## This Repo is Created and Maintained by
-
-_Navaneeth Malingan_
-
-<a target="_blank" href="https://www.instagram.com/nivu.me/">
-  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
-</a>
-
-<a target="_blank" href="https://www.linkedin.com/in/nivu/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
-</a>
-<br/>
-
+  
 ## Why Data Science and how to get started?
 
 - [🖥️ HOW TO GET STARTED WITH MACHINE LEARNING!](https://www.youtube.com/watch?v=I74ymkoNTnw)
